@@ -1,0 +1,48 @@
+{
+    "__owl_version__": "0.19.177",
+    "save_assay_parameters": {
+        "__owl_version__": "0.19.177",
+        "__owl_settings_type__": "assay_save_configuration",
+        "parameters": false,
+        "configuration": false,
+        "combined": false,
+        "returned": true,
+        "metadata": false
+    },
+    "save_mode_options": {
+        "__owl_version__": "0.19.177",
+        "__owl_settings_type__": "save_options"
+    },
+    "__owl_settings_type__": "acquire_video",
+    "mcam_state": {
+        "__owl_version__": "0.19.177",
+        "__owl_settings_type__": "mcam_state",
+        "exposure": 0.01999513043478261,
+        "analog_gain": 2.0,
+        "digital_gain": 4.0,
+        "illumination_mode": "fluorescence_440nm",
+        "illumination_brightness": 0.8,
+        "bin_mode": 2,
+        "start_pixel": [
+            32,
+            576
+        ],
+        "end_pixel": [
+            3104,
+            3648
+        ],
+        "exif_orientation": 7,
+        "frame_rate_setpoint": 15,
+        "virtual_selection": "default",
+        "x_sample_stage_position": 0.0,
+        "mechanical_state": "insert"
+    },
+    "start_delay": 0.0,
+    "frame_rate": 45.0,
+    "number_of_frames": 450,
+    "well_plate_labels": true,
+    "save_mode": "to_multi_MP4",
+    "selection_type": "full_array",
+    "include_timestamp": true,
+    "return_all_parameters": false
+}
