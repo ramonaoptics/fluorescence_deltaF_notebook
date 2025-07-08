@@ -1,0 +1,12 @@
+name: cardiac_organoid_deltaF
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.12.0,<3.13.0a
+  - imageio
+  - imageio-ffmpeg
+  - numpy >=2.0
+  - pandas
+  - matplotlib-base
+  - ipykernel
+  - jupyterlab
