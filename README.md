@@ -11,6 +11,8 @@ A compact Jupyter notebook for analyzing calcium imaging data that:
 
 Simple kick-starter for python analysis of MCAM video data!
 
+Read the [white paper](https://www.ramonaoptics.com/blog/livecardiacorganoids) for more information.
+
 ## Setup
 
 ### Conda
